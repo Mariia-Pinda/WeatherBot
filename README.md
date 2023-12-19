@@ -8,3 +8,5 @@ When the main.py file is running, select \start in the bot menu. The bot will as
 Main components: the model_training.ipynb file, where data is processed and the model is trained, and the results are saved;
 main.py file for creating a forecast and useful tips;
 data folder with Kyiv data for model training and saved data after training.
+
+We also use the paid OpenAI API, so we ask you not to run the bot many times to avoid spending a lot of money from our account :).
